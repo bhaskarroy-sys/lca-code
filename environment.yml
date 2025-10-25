@@ -131,7 +131,7 @@ dependencies:
   - zope.interface=4.5.0=py36h470a237_1
   - blas=1.0=mkl
   - cairo=1.14.12=h8948797_3
-  - cudatoolkit=8.0=3
+  - cudatoolkit=11.8
   - dbus=1.13.2=h714fa37_1
   - ffmpeg=4.0=hcdf2ecd_0
   - fontconfig=2.13.0=h9420a91_0
